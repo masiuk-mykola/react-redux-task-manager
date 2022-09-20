@@ -2,7 +2,7 @@
   "name": "redux-task-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://masiuk-mykola.github.io/redux-task-manager/",
+  "homepage": "https://masiuk-mykola.github.io/react-redux-task-manager/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
